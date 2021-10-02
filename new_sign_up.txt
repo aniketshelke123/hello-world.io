@@ -1,0 +1,4 @@
+name: aniket, password: 1234, confirm_password: 1234, e_mail: aniket@mail.com, mob_no: 9423873496
+name: abhi, password: 1243, confirm_password: 1243, e_mail: abhi@mial.com, mob_no: 92347123
+name: aniketa, password: 123456, confirm_password: 123456, e_mail: amiket@mail.com, mob_no: 923539591
+ pawan,  123, confirm_password: 123, e_mail: pawn@mail.com, mob_no: 91472391

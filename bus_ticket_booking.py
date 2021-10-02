@@ -96,8 +96,8 @@ def passenger_details():
 
 
 def send_remainder():
-    # account_sid = "AC637c30642ae5835c32fec20938064650"
-    # auth_token = "f67e0fd99943a14bcdf8a99c9b3c1c79"
+   
+    
     # client = Client(account_sid, auth_token)
     #
     # message = client.messages \
